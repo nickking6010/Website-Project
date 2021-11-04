@@ -7,6 +7,7 @@ I've only tested this in Chrome. Please use Chrome for best results.
 Thanks for your time!
 
 ## Website Preview
+(These screenshots don't show the full site, visit the html to see it all!)
 
 ![website1](https://user-images.githubusercontent.com/78459585/140369601-c4ac6785-4eec-4d86-8eb2-8e685d91e0bb.PNG)
 
